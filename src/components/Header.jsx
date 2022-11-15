@@ -9,7 +9,7 @@ const Header = () => {
           <li>
             <img src='images/pin.png' className='icon' alt='location' />
           </li>
-          <li class='align-right'>
+          <li className='align-right'>
             <img src='images/burger.png' className='icon' />
           </li>
         </ul>

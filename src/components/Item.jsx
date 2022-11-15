@@ -6,7 +6,7 @@ const Item = ({ workspace }) => {
         className='item-img'
         alt={workspace.altText}
       />
-      {workspace.banner && <div class='img-banner'>{workspace.banner}</div>}
+      {workspace.banner && <div className='img-banner'>{workspace.banner}</div>}
       <div className='caption'>
         <p>{workspace.caption}</p>
         <button>Book</button>
