@@ -52,10 +52,10 @@ h1 {
 }
 
 .caption {
-  margin: 0 25px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  gap: 20px;
+  margin: 0 25px;
 }
 
 .img-banner {
